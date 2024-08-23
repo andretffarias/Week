@@ -22,4 +22,5 @@ export default class DayClass {
   public removeTask(index: number): void {
     this.tasks_.splice(index, 1)
   }
+  //oi
 }
